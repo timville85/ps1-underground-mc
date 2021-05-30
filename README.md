@@ -5,117 +5,68 @@ Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mc
 
 -------------
 
-**Playstation Underground Number 1 (SCUS-94161)**
-- Carnage Heart (25 OKE's)
+| Game        | Description | Game ID | PS Underground Issue # |
+| ----------- | ----------- | ------- | ---- | 
+| Carnage Heart | Start with 25 OKE's | SLUS-XXXXX | 1.1 |
+| Soulblade | Extra Weapons and Boss Soul Edge Character | SLUS-XXXXX | 1.2 | 
+| Rage Racer | Extra Car  | SLUS-XXXXX | 1.2 | 
+| Cool Boarders | Unlock Snowman  | SLUS-XXXXX | 1.2 | 
+| Ogre Battle  | Powered-up Characters, High Reputation Meter, and Main Character with High Alignment   | SLUS-XXXXX | 1.3 | 
+| Dynasty Warriors | Unlock Nobunaga   | SLUS-XXXXX | 1.3 | 
+| JetMoto 2 | Adds Power Ups on Stunts - Activate in Trophy Room | SLUS-XXXXX | 1.4 | 
+| Cool Boarders 2 | Unlock Snow-woman | SLUS-XXXXX | 1.4 | 
+| Resident Evil Director's Cut (Chris 1) | Unlimited Shot Rocket Launcher | SLUS-XXXXX | 1.4 | 
+| Resident Evil Director's Cut (Chris 2) | Unlimited Shot Colt Python | SLUS-XXXXX | 1.4 | 
+| Resident Evil Director's Cut (Jill) | Unlimited Shot Rocket Launcher  | SLUS-XXXXX | 1.4 | 
+| Ghost In The Shell | Access to 8 out of 17 Cinematic Sequences | SLUS-XXXXX| 2.1 |
+| Vs. | Unlock 4 Gang Bosses | SLUS-XXXXX| 2.1 |
+| Parappa The Rapper | All Levels with COOL Rating + Bonus Track | SLUS-XXXXX|  2.1 |
+| Monster Rancher (1) | Grade A Pixie + 35,080G in Bank + Special Items | SLUS-XXXXX| 2.2 |
+| Monster Rancher (2) | 2 Monsters + 46,690G in Bank + Special Items | SLUS-XXXXX| 2.2 |
+| Monster Rancher (3) | 2 Doodle Monsters + 14,540G in Bank + Special Items | SLUS-XXXXX| 2.2 |
+| Speed Racer | All Cars | SLUS-XXXXX| 2.2 |
+| Tekken 3 | All Hidden Characters and Outfits | SLUS-XXXXX| 2.3 |
+| Gran Turismo | All Tracks, 11 Cars, $1.9 Billion | SLUS-XXXXX|2.3 |
+| Vigilante 8 | All Characters and Stages | SLUS-XXXXX| 2.3 |
+| Cool Boarders 3 | Hidden Character, Board, and 2 Mountains | SLUS-XXXXX| 2.4 |
+| Circuit Breakers | All 32 Tracks | SLUS-XXXXX| 2.4 |
+| Heart of Darkness | All Full Motion Animations | SLUS-XXXXX| 2.4 |
+| Guilty Gear | 3 Hidden Characters | SLUS-XXXXX| 3.1 |
+| Formula One 98 | 2 Hidden Tracks | SLUS-XXXXX| 3.1|
+| Team Losi RC Racer | All Cars and Tracks | SLUS-XXXXX| 3.1 |
+| Test Drive Off-Road 2 | All Hidden Tracks | SLUS-XXXXX| 3.1 |
+| Darkstalkers 3 | All the Secret Menus | SLUS-XXXXX| 3.1 |
+| Bomberman Fantasy Race | All Tracks and Characters | SLUS-XXXXX| 3.2 |
+| Gex 3: Deep Cover Gecko | All Levels and Remotes | SLUS-XXXXX| 3.2 |
+| R4 Ridge Racer Type 4 | All Cars and Tracks | SLUS-XXXXX| 3.2 |
+| Rival Schools (Arcade Disk) | All Characters, Endings, and Pictures | SLUS-XXXXX| 3.2 |
+| Rival Schools (Evolution Disk) | All Characters, Endings, and Pictures | SLUS-XXXXX| 3.2 |
+| Silent Hill | All Weapons Except Hidden Laser | SLUS-XXXXX| 3.2 |
+| Evil Zone | All Costumes, Narration, Boss Character, Japanese Ending | SLUS-XXXXX| 3.3 |
+| Blast Radius | Both Hidden Ships | SLUS-XXXXX| 3.3 |
+| Soul of the Samurai | All Swords, Infinite Ninja Stars, All Costumes | SLUS-XXXXX| 3.3 |
+| Bugs Bunny - Lost In Time | All Stages | SLUS-XXXXX| 3.3 |
+| Demolition Racer | All Tracks, Modes, and Cars - Except Demolition League | SLUS-XXXXX| 3.4 |
+| Tony Hawk Pro Skater | All Skaters, Movies, Boards, and Stats | SLUS-XXXXX| 3.4 |
+| Rising Zan | All Modes and Options | SLUS-XXXXX| 3.4|
+| MTV Sports Snowboarding | One Extra Character and Track | SLUS-XXXXX| 3.4 |
+| Metal Gear Solid VR Missions | All Special Modes and Bonus Items | SLUS-XXXXX| 3.4 |
+| Jade Cocoon | User Starts at Beginning of Eternal Corridor | SLUS-XXXXX| 3.4 |
+| Driver | All Cheats and Cities in "Take a Ride" and "Driving Games" modes | SLUS-XXXXX| 3.4 |
+| Metal of Honor | All Secret Codes | SLUS-XXXXX| 4.1 |
+| NASCAR Rumble | All Bonus Tracks, Locales, Pro/Elite Difficulty, Cars | SLUS-XXXXX| 4.1 |
+| MTV Music Generator | 10 Sample Tracks  | SLUS-XXXXX| 4.1 |
+| Ace Combat 3 - Electrosphere | All Planes, Missions, Weapons, and Music Player | SLUS-XXXXX| 4.2 |
+| Army Men World War | All Levels | SLUS-XXXXX| 4.2 |
+| Hydro Thunder | All Levels and Boats | SLUS-XXXXX| 4.2 |
+| NHL Rock the Rink | All Teams and Cheats | SLUS-XXXXX| 4.2 |
+| Speed Punks | 3 Hidden Characters | SLUS-XXXXX| 4.2 |
+| Grind Session | All Characters and Levels | SLUS-XXXXX| 4.3 |
+| CTR - Crash Team Racing | All Characters and 3 Extra Battle Arenas | SLUS-XXXXX| 4.3 |
+| Tenchu 2 - Birth of the Stealth Assassins | All Characters and Levels | SLUS-XXXXX| 4.3 |
+| Gekido | All Characters, Shadow Fighter Mode, Team Battle Mode, Survival Mode | SLUS-XXXXX| 4.3 |
+| Ultimate Fighting Championship | All Characters | SLUS-XXXXX| 4.4 |
+| Incredible Crisis | All Mini Games / Levels | SLUS-XXXXX| 4.4 |
+| Walt Disney The Jungle Book Rhythm N'Groove | All Levels | SLUS-XXXXX| 4.4 |
+| 007 - The World Is Not Enough | All Levels | SLUS-XXXXX| 4.4 |
 
-**Playstation Underground Number 2 (SCUS-94178)**
-- Soulblade (Extra Weapons and Boss Soul Edge Character)
-- Rage Racer (Extra Car)
-- Cool Boarders (Unlock Snowman)
-
-**Playstation Underground Number 3 (SCUS-94191)**
-- Ogre Battle (Powered-up Characters, High Reputation Meter, and Main Character with High Alignment)
-- Dynasty Warriors (Unlock Nobunaga)
-
-**Playstation Underground Number 4 (SCUS-94225)**
-- JetMoto 2 (Adds Power Ups on Stunts - Activate in Trophy Room)
-- Cool Boarders 2 (Unlock Snow-woman)
-- Resident Evil Director's Cut (Chris 1) (Unlimited Shot Rocket Launcher)
-- Resident Evil Director's Cut (Chris 2) (Unlimited Shot Colt Python)
-- Resident Evil Director's Cut (Jill) (Unlimited Shot Rocket Launcher) 
-
-**Playstation Underground Volume 2 Issue 1 (SCUS-94237)**
-- Ghost In The Shell (Access to 8 out of 17 Cinematic Sequences)
-- Vs. (Unlock 4 Gang Bosses)
-- Parappa The Rapper (All Levels with COOL Rating + Bonus Track)
-
-**Playstation Underground Volume 2 Issue 2 (SCUS-94259)**
-- Monster Rancher (1) (Grade A Pixie + 35,080G in Bank + Special Items)
-- Monster Rancher (2) (2 Monsters + 46,690G in Bank + Special Items)
-- Monster Rancher (3) (2 Doodle Monsters + 14,540G in Bank + Special Items)
-- Speed Racer (All Cars)
-
-**Playstation Underground Volume 2 Issue 3 (SCUS-94269)**
-- Tekken 3 (All Hidden Characters and Outfits)
-- Gran Turismo (All Tracks, 11 Cars, $1.9 Billion)
-- Vigilante 8 (All Characters and Stages)
-
-**Playstation Underground Volume 2 Issue 4 (SCUS-94298)**
-- Cool Boarders 3 (Hidden Character, Board, and 2 Mountains)
-- Circuit Breakers (All 32 Tracks)
-- Heart of Darkness (All Full Motion Animations)
-
-**Playstation Underground 3.1 (SCUS-94440)**
-- Guilty Gear (3 Hidden Characters)
-- Formula One 98 (2 Hidden Tracks)
-- Team Losi RC Racer (All Cars and Tracks)
-- Test Drive Off-Road 2 (All Hidden Tracks)
-- Darkstalkers 3 (All the Secret Menus)
-
-**Playstation Underground 3.2 (SCUS-94442)**
-- Bomberman Fantasy Race (All Tracks and Characters)
-- Gex 3: Deep Cover Gecko (All Levels and Remotes)
-- R4 Ridge Racer Type 4 (All Cars and Tracks)
-- Rival Schools "Arcade" (All Characters, Endings, and Pictures)
-- Rival Schools "Evolution" (All Characters, Endings, and Pictures)
-- Silent Hill (All Weapons Except Hidden Laser)
-
-**Playstation Underground 3.3 (SCUS-94444)**
-- Evil Zone (All Costumes, Narration, Boss Character, Japanese Ending)
-- Blast Radius (Both Hidden Ships)
-- Soul of the Samurai (All Swords, Infinite Ninja Stars, All Costumes)
-- Bugs Bunny - Lost In Time (All Stages)
-
-**Playstation Underground 3.4 (SCUS-94446)**
-- Demolition Racer (All Tracks, Modes, and Cars - Except Demolition League)
-- Tony Hawk Pro Skater (All Skaters, Movies, Boards, and Stats)
-- Rising Zan (All Modes and Options)
-- MTV Sports Snowboarding (One Extra Character and Track)
-- Metal Gear Solid VR Missions (All Special Modes and Bonus Items)
-- Jade Cocoon (User Starts at Beginning of Eternal Corridor)
-- Driver (All Cheats and Cities in "Take a Ride" and "Driving Games" modes)
-
-**Playstation Underground 4.1 (SCUS-94565)**
-- Metal of Honor (All Secret Codes)
-- NASCAR Rumble (All Bonus Tracks, Locales, Pro/Elite Difficulty, Cars)
-- MTV Music Generator (10 Sample Tracks)
-
-**Playstation Underground 4.2 (SCUS-94612)**
-- Ace Combat 3 - Electrosphere (All Planes, Missions, Weapons, and Music Player)
-- Army Men World War (All Levels)
-- Hydro Thunder (All Levels and Boats)
-- NHL Rock the Rink (All Teams and Cheats)
-- Speed Punks (3 Hidden Characters)
-
-**Playstation Underground 4.3 (SCUS-94620)**
-- Grind Session (All Characters and Levels)
-- CTR - Crash Team Racing (All Characters and 3 Extra Battle Arenas)
-- Tenchu 2 - Birth of the Stealth Assassins (All Characters and Levels)
-- Gekido (All Characters, Shadow Fighter Mode, Team Battle Mode, Survival Mode)
-
-**Playstation Underground 4.4 (SCUS-97120)**
-- Ultimate Fighting Championship (All Characters)
-- Incredible Crisis (All Mini Games / Levels)
-- Walt Disney The Jungle Book Rhythm N'Groove (All Levels)
-- 007 - The World Is Not Enough (All Levels)
-
-**Playstation Underground Jampack (SCUS-94267)**
-- Same as Playstation Underground Volume 2, Issue 2
-
-**Playstation Underground Jampack Winter '98 (SCUS-94293)**
-- Same as Playstation Underground Volume 2, Issue 3
-
-**Playstation Underground Jampack Summer '99 (SCUS-94428)**
-- Same as Playstation Underground 3.1
-
-**Playstation Underground Jampack Winter '99 (SCUS-94475)**
-- Same as Playstation Underground 3.3
-
-**Playstation Underground Jampack Summer 2K (SCUS-94587)**
-- Same as Playstation Underground 4.1, minus NASCAR
-
-**Playstation Underground Jampack Winter 2000 (SCUS-94624)**
-- Same as Playstation Underground 4.3, minus CTR and Gekido
-
-**Playstation Underground Jampack Fall 2001 (SCUS-94657)**
-- Same as Playstation Underground 4.4 with Ace Combat 3 (from 4.2) Included
