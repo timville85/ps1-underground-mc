@@ -1,4 +1,4 @@
-# ps1-underground-mc
+# Playstation Underground "Downloads" Memory Card Collection
 Collection of Memory Card files and save exports from PS1 Underground Downloads
 
 Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mcd) from Playstation Underground demo disk collections for Playstation 1.
