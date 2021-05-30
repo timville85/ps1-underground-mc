@@ -3,7 +3,7 @@ Collection of Memory Card files and save exports from PS1 Underground Downloads
 
 Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mcd) from Playstation Underground demo disk collections for Playstation 1.
 
-| Game        | Description | Game ID | PS Underground Issue # |
+| Game        | Description | Game ID | Issue # |
 | -------     | ----------- | ------- |  :--: | 
 | 007 - The World Is Not Enough | All Levels | SLUS-01272 | 4.4 |
 | Ace Combat 3 - Electrosphere | All Planes, Missions, Weapons, and Music Player | SLUS-00972 | 4.2 |
