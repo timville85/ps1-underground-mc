@@ -5,21 +5,21 @@ Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mc
 
 | Game        | Description | Game ID | PS Underground Issue # |
 | ----------- | ----------- | ------- | ---- | 
-| 007 - The World Is Not Enough | All Levels | SLUS-XXXXX| 4.4 |
-| Ace Combat 3 - Electrosphere | All Planes, Missions, Weapons, and Music Player | SLUS-XXXXX| 4.2 |
-| Army Men World War | All Levels | SLUS-XXXXX| 4.2 |
-| Blast Radius | Both Hidden Ships | SLUS-XXXXX| 3.3 |
-| Bomberman Fantasy Race | All Tracks and Characters | SLUS-XXXXX| 3.2 |
-| Bugs Bunny - Lost In Time | All Stages | SLUS-XXXXX| 3.3 |
-| CTR - Crash Team Racing | All Characters and 3 Extra Battle Arenas | SLUS-XXXXX| 4.3 |
-| Carnage Heart | Start with 25 OKE's | SLUS-XXXXX | 1.1 |
-| Circuit Breakers | All 32 Tracks | SLUS-XXXXX| 2.4 |
-| Cool Boarders 2 | Unlock Snow-woman | SLUS-XXXXX | 1.4 |
-| Cool Boarders 3 | Hidden Character, Board, and 2 Mountains | SLUS-XXXXX| 2.4 |
-| Cool Boarders | Unlock Snowman  | SLUS-XXXXX | 1.2 |
-| Darkstalkers 3 | All the Secret Menus | SLUS-XXXXX| 3.1 |
-| Demolition Racer | All Tracks, Modes, and Cars - Except Demolition League | SLUS-XXXXX| 3.4 |
-| Driver | All Cheats and Cities in "Take a Ride" and "Driving Games" modes | SLUS-XXXXX| 3.4 |
+| 007 - The World Is Not Enough | All Levels | SLUS-01272 | 4.4 |
+| Ace Combat 3 - Electrosphere | All Planes, Missions, Weapons, and Music Player | SLUS-00972 | 4.2 |
+| Army Men World War | All Levels | SLUS-01079 | 4.2 |
+| Blast Radius | Both Hidden Ships | SLUS-00642 | 3.3 |
+| Bomberman Fantasy Race | All Tracks and Characters | SLUS-00823 | 3.2 |
+| Bugs Bunny - Lost In Time | All Stages | SLUS-00838 | 3.3 |
+| CTR - Crash Team Racing | All Characters and 3 Extra Battle Arenas | SCUS-94426 | 4.3 |
+| Carnage Heart | Start with 25 OKE's | SLPS-00151 | 1.1 |
+| Circuit Breakers | All 32 Tracks | SLUS-00697 | 2.4 |
+| Cool Boarders | Unlock Snowman  | SCUS-94356 | 1.2 |
+| Cool Boarders 2 | Unlock Snow-woman | SCUS-94358 | 1.4 |
+| Cool Boarders 3 | Hidden Character, Board, and 2 Mountains | SCUS-94251 | 2.4 |
+| Darkstalkers 3 | All the Secret Menus | SLUS-00745 | 3.1 |
+| Demolition Racer | All Tracks, Modes, and Cars - Except Demolition League | SLUS-00969 | 3.4 |
+| Driver | All Cheats and Cities in "Take a Ride" and "Driving Games" modes | SLUS-00842 | 3.4 |
 | Dynasty Warriors | Unlock Nobunaga   | SLUS-XXXXX | 1.3 |
 | Evil Zone | All Costumes, Narration, Boss Character, Japanese Ending | SLUS-XXXXX| 3.3 |
 | Formula One '98 | 2 Hidden Tracks | SLUS-XXXXX| 3.1|
