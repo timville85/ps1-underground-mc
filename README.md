@@ -34,6 +34,7 @@ Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mc
 | Incredible Crisis | All Mini Games / Levels | SLUS-01225 | 4.4 |
 | Jade Cocoon | User Starts at Beginning of Eternal Corridor | SLUS-00854 | 3.4 |
 | JetMoto 2 | Adds Power Ups on Stunts - Activate in Trophy Room | SCUS-94167 | 1.4 |
+| The Jungle Book - Rhythm N'Groove | All Levels | SLUS-01278 | 4.4 |
 | Metal Gear Solid - VR Missions | All Special Modes and Bonus Items | SLUS-00957 | 3.4 |
 | Metal of Honor | All Secret Codes | SLUS-00974 | 4.1 |
 | Monster Rancher (1) | Grade A Pixie + 35,080G in Bank + Special Items | SLUS-00568 | 2.2 |
@@ -66,4 +67,3 @@ Individual save file exports (.mcs) and MemCard PRO compatible memory cards (.mc
 | Ultimate Fighting Championship | All Characters | SLUS-01143 | 4.4 |
 | Vigilante 8 | All Characters and Stages | SLUS-00510 | 2.3 |
 | Vs. | Unlock 4 Gang Bosses | SLUS-00513 | 2.1 |
-| Walt Disney The Jungle Book Rhythm N'Groove | All Levels | SLUS-01278 | 4.4 |
